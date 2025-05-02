@@ -1,0 +1,7 @@
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\ComingSoonWebApp.exe
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\appsettings.json
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\ComingSoonWebApp.dll
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\ComingSoonWebApp.deps.json
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\ComingSoonWebApp.runtimeconfig.json
+D:\Work\Azure\ComingSoonWebApp\bin\Release\net8.0\publish\ComingSoonWebApp.pdb
